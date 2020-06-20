@@ -40,7 +40,8 @@ baseurl: "/Lakegel-blog" # the subpath of your site, e.g. "/blog".
 minima:
   social_links:
     twitter: fastdotai
-    github: fastai
+    github: https://github.com/lakegel09
+    linkedln: https://www.linkedin.com/in/lekan-sanusi-61b813128/
 
 # Set this to true to get LaTeX math equation support
 use_math: 
